@@ -777,6 +777,7 @@ yejashi
 - [Shivani Kumari](https://github.com/shivanikumari631)
 - [Kodali Bhavana](https://github.com/Kodali-Bhavana)
 - [Chieh Ju](https://github.com/trinityliaoAI)
+- [Dhruv Singla](https://github.com/DhruvSingla03)
 - [Siddharth Khuntwal](https://github.com/sid-khuntwal)
 - [Nasreen Khalid](https://github.com/NasreenKhalid)
 - [Abideen Bello] (https://github.com/bideeen)
